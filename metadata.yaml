@@ -11,6 +11,9 @@ contributor:
     deathdate: 1952
     gutenberg_agent_id: '39273'
     url: http://www.gutenberg.org/2009/agents/39273
+covers:
+- cover_type: archival
+  image_path: 75808-h/images/cover.jpg
 creator:
   author:
     agent_name: Wallace, Edgar
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/999
     wikipedia: https://en.wikipedia.org/wiki/Edgar_Wallace
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75808#Four-square-Jane
 gutenberg_issued: '2025-04-07'
 gutenberg_type: Text
 identifiers:
